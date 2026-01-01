@@ -52,8 +52,11 @@ The application is deployed using **Streamlit** and features a clean, user-frien
 ## 📂 Project Structure
 
 ├── app.py # Streamlit application
+
 ├── Lr1_model.pkl # Trained ML pipeline (TF-IDF + Logistic Regression)
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ## ⚠️ Disclaimer
